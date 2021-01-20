@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `npx create-react-app (project name)`
+### `cd (project name)`
+### `npm install react-bootstrap bootstrap`
+
 ## Available Scripts
 
 In the project directory, you can run:
